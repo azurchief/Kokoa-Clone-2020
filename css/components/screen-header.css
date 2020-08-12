@@ -9,23 +9,8 @@
 .screen-header__title {
   font-size: 32px;
   font-weight: 600;
-  padding: var(--horizontal-space);
 }
 
 .screen-header__icons span {
   margin-left: 25px;
-}
-
-/* To make a badge icon on top of that 'cog' icon */
-.screen-header__badge-2 {
-  background-color: tomato;
-  width: 5px;
-  height: 5px;
-  border-radius: 15px;
-  display: inline-block;
-
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
 }
