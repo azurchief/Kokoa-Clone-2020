@@ -119,3 +119,7 @@
   will-change: transform;
   animation: heartBeat 1s linear infinite;
 }
+
+.find-screen {
+  padding: 0px var(--horizontal-space);
+}
