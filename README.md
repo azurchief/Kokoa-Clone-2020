@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-HTML & CSS are so much fun!
+Used HTML & CSS for making Kakaotalk app UI.
