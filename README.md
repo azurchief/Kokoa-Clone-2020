@@ -1,6 +1,7 @@
 # Cloned Kakaotalk application
 
 HTML & CSS 로 카카오톡 앱의 프론트엔드 영역만을 구현화.
+
 주요 참고 문서: 모질라재단의 html,css 문서 + W3School.
 
 기억에 남는 것:
